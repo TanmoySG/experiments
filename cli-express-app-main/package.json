@@ -1,0 +1,16 @@
+{
+  "name": "cli-express-app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "echo"
+  },
+  "type": "module",
+  "main": "app-cli.js",
+  "bin": {
+    "app-cli": "app-cli.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
